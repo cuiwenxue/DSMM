@@ -14,11 +14,11 @@ If you have any question, please email me through: wenxuecui@stu.hit.edu.cn
 
 If it's helpful for you please cite our paper by:
 
-@inproceedings{cui2018deep,
-title={Deep neural network based sparse measurement matrix for image compressed sensing},
-author={Cui, Wenxue and Jiang, Feng and Gao, Xinwei and Tao, Wen and Zhao, Debin},
-booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},
-pages={3883--3887},
-year={2018},
-organization={IEEE}
+@inproceedings{cui2018deep,  
+title={Deep neural network based sparse measurement matrix for image compressed sensing},  
+author={Cui, Wenxue and Jiang, Feng and Gao, Xinwei and Tao, Wen and Zhao, Debin},  
+booktitle={2018 25th IEEE International Conference on Image Processing (ICIP)},  
+pages={3883--3887},  
+year={2018},  
+organization={IEEE}  
 }
