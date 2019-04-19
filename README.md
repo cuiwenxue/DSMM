@@ -5,7 +5,7 @@ For the paper "Deep neural network based sparse measurement matrix for image com
 DL framework： matconvnet; The main function is Demo_Train_model_64_96_Adam.m; The main changes are in the file: vl_simplenn.m; GenerateData_model_64_25_Res_Bnorm_Adam.m used to generate training data image blocks.
 
 Framework:
-![image](https://github.com/cuiwenxue/DSMM/tree/master/images/framework.png)
+![image](https://github.com/cuiwenxue/DSMM/raw/master/images/framework.png)
 
 If you have any question, please email me through: wenxuecui@stu.hit.edu.cn
 
