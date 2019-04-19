@@ -6,7 +6,10 @@ DL framework： matconvnet; The main function is Demo_Train_model_64_96_Adam.m; 
 
 Framework:
 ![image](https://github.com/cuiwenxue/DSMM/raw/master/images/framework.png)
-
+Objective results:
+![image](https://github.com/cuiwenxue/DSMM/raw/master/images/results.png)
+Visual results:
+![image](https://github.com/cuiwenxue/DSMM/raw/master/images/results2.png)
 If you have any question, please email me through: wenxuecui@stu.hit.edu.cn
 
 If it's helpful for you please cite our paper by:
